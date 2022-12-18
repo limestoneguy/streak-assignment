@@ -1,5 +1,6 @@
 {
   "expo": {
+    "jsEngine": "hermes",
     "name": "streak-assignment",
     "slug": "streak-assignment",
     "version": "1.0.0",
